@@ -12,6 +12,13 @@
 #develop - develop
 
 #develop - release
+<<<<<<< HEAD
 >>>>>>> release
 
 #develop
+=======
+
+#hotfix
+>>>>>>> hotfix
+
+a
